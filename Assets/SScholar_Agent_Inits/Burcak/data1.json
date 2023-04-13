@@ -1,0 +1,29 @@
+﻿{
+  "Type": "Patient",
+  "Block": "E",
+  "Ward": "1",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "BedRest",
+  "Total_Number": 29,
+  "HomeObject": "TestWard1_Home_Array",
+  "Color": "White",
+  "Itinerary": {
+    "745": "Target DiningHall 2",
+
+    "855": "Home",
+
+    "1045": "Target DiningHall 2",
+
+    "1145": "Target Courtyard",
+
+    "1401": "Home",
+
+    "1545": "Target DiningHall 2",
+
+    "1705": "Target Courtyard",
+
+    "1811": "Home"
+
+  }
+}

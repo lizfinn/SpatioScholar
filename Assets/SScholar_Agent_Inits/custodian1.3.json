@@ -1,0 +1,59 @@
+{
+  "Type": "Custodian1.3",
+  "Block": "E",
+  "Ward": "1",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "TBD",
+  "Total_Number": 1,
+  "HomeObject": "Cust1.3",
+  "Color": "Light Green",
+  "Itinerary": {
+    
+
+
+    
+	"605": "c1 (23)",
+
+    "610": "c1 (24)",
+
+    "615": "c1 (25)",
+
+    "620": "c1 (26)",
+
+    "625": "c1 (27)",
+
+    "630": "c1 (28)",
+
+    "635": "c1 (29)",
+
+    "640": "c1 (30)",
+
+    "645": "c1 (31)",
+
+    "650": "c1 (32)",
+
+    "655": "c1 (33)",
+
+    "700": "c1 (34)",
+
+    "705": "c1 (35)",
+,
+    "745": "Target DiningHall 1",
+
+    "855": "Home",
+
+    "1045": "Target DiningHall 1",
+
+    "1145": "Target Courtyard",
+
+    "1401": "Home",
+
+    "1545": "Target DiningHall 1",
+
+    "1705": "Target Courtyard",
+
+    "1811": "Home"
+      }
+}
+

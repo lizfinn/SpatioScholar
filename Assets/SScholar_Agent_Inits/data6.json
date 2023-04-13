@@ -1,0 +1,22 @@
+﻿{
+  "Type": "Physician",
+  "Block": "E",
+  "Ward": "3",
+  "ID": "Auto",
+  "Sex": "Male",
+  "State": "TBD",
+  "Total_Number": 2,
+  "HomeObject": "Physician_Home",
+  "Color": "Yellow",
+  "Itinerary": {
+    "859": "VisitWard1",
+
+    "930": "VisitWard2",
+
+    "959": "VisitWard3",
+
+    "1030": "VisitWard4",
+
+    "1059": "Home"
+  }
+}

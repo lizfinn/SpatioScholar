@@ -1,0 +1,24 @@
+{
+  "Type": "Custodian4",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "TBD",
+  "Total_Number": 2,
+  "HomeObject": "Cust4",
+  "Color": "Light Green",
+    "Itinerary": {
+		"745": "Target DiningHall 1",
+
+		"759": "Home",
+
+		"1045": "Target DiningHall 1",
+
+		"1059": "Home",
+
+		"1545": "Target DiningHall 1",
+
+		"1559": "Home"
+    }
+  }

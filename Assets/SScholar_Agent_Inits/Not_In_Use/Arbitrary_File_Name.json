@@ -1,0 +1,33 @@
+{
+  "Type": "Patient",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "TBD",
+  "Total_Number": 3,
+  "HomeObject": "TestWard_Home_Array",
+  "Color": "Red",
+  "Itinerary": {
+    "731": "Target DiningHall 2",
+
+    "831": "Target Courtyard",
+    "111":  "Home",
+
+    "121": "Target DiningHall 2",
+
+    "131": "Target Courtyard",
+
+    "161": "Target DiningHall 2",
+
+    "181": "Home"
+
+
+  }
+}
+: DiningHall
+0830: Courtyard
+1200: DiningHall
+1300: Courtyard
+1600: DiningHall
+1800: Ward

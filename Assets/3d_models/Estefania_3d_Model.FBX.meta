@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 8df9b03269805c949b636b760437b5e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "Layer:3d_capilla_hip\xF3tesis"
+    100004: Layer:3d_capilla_muros
+    100006: Layer:3d_capilla_muros 1
+    100008: Layer:3d_capilla_muros 2
+    100010: Layer:3d_capilla_puerta
+    100012: Layer:3d_capilla_puerta 1
+    100014: Layer:3d_capilla_puerta 2
+    100016: Layer:3d_capilla_tejado
+    100018: Layer:3d_hopederia
+    100020: Layer:3d_monasterio_claustro_gotico
+    100022: Layer:3d_monasterio_claustro_gotico 1
+    100024: Layer:3d_monasterio_claustro_gotico 2
+    100026: Layer:3d_monasterio_claustro_gotico 3
+    100028: Layer:3d_monasterio_claustro_romanico
+    100030: Layer:3d_monasterio_cont_forjados
+    100032: Layer:3d_monasterio_cont_obra_muros
+    100034: Layer:3d_monasterio_iglesia_romanica
+    100036: Layer:3d_monasterio_iglesia_romanica 1
+    100038: Layer:3d_monasterio_iglesia_romanica 2
+    100040: Layer:3d_monasterio_iglesia_romanica 3
+    100042: Layer:3d_monasterio_iglesia_romanica 4
+    100044: Layer:terreno001
+    100046: Layer:terreno002
+    100048: Layer:terreno003
+    100050: Layer:terreno004
+    100052: Layer:terreno005
+    100054: Layer:terreno006
+    100056: Layer:terreno007
+    100058: Layer:terreno008
+    100060: Layer:terreno009
+    100062: Layer:terreno010
+    100064: Layer:terreno011
+    100066: Layer:terreno012
+    100068: Layer:terreno013
+    100070: Layer:terreno014
+    100072: Layer:terreno015
+    100074: Layer:terreno016
+    100076: Layer:terreno017
+    100078: Layer:terreno018
+    100080: Layer:terreno019
+    100082: Layer:terreno020
+    100084: Layer:terreno021
+    100086: Layer:terreno022
+    100088: Layer:terreno023
+    100090: Layer:terreno024
+    100092: Layer:terreno025
+    100094: Layer:terreno026
+    100096: Layer:terreno027
+    100098: Layer:terreno028
+    100100: Layer:terreno029
+    100102: Layer:terreno030
+    100104: Layer:terreno031
+    100106: Layer:terreno032
+    100108: Layer:terreno033
+    100110: Layer:terreno034
+    100112: Layer:terreno035
+    100114: Layer:terreno036
+    100116: Layer:terreno037
+    100118: Layer:terreno038
+    100120: Layer:terreno039
+    100122: Layer:terreno040
+    100124: Layer:terreno041
+    100126: Layer:terreno042
+    100128: Layer:terreno043
+    100130: Layer:terreno044
+    100132: Layer:terreno045
+    100134: Layer:terreno046
+    400000: //RootNode
+    400002: "Layer:3d_capilla_hip\xF3tesis"
+    400004: Layer:3d_capilla_muros
+    400006: Layer:3d_capilla_muros 1
+    400008: Layer:3d_capilla_muros 2
+    400010: Layer:3d_capilla_puerta
+    400012: Layer:3d_capilla_puerta 1
+    400014: Layer:3d_capilla_puerta 2
+    400016: Layer:3d_capilla_tejado
+    400018: Layer:3d_hopederia
+    400020: Layer:3d_monasterio_claustro_gotico
+    400022: Layer:3d_monasterio_claustro_gotico 1
+    400024: Layer:3d_monasterio_claustro_gotico 2
+    400026: Layer:3d_monasterio_claustro_gotico 3
+    400028: Layer:3d_monasterio_claustro_romanico
+    400030: Layer:3d_monasterio_cont_forjados
+    400032: Layer:3d_monasterio_cont_obra_muros
+    400034: Layer:3d_monasterio_iglesia_romanica
+    400036: Layer:3d_monasterio_iglesia_romanica 1
+    400038: Layer:3d_monasterio_iglesia_romanica 2
+    400040: Layer:3d_monasterio_iglesia_romanica 3
+    400042: Layer:3d_monasterio_iglesia_romanica 4
+    400044: Layer:terreno001
+    400046: Layer:terreno002
+    400048: Layer:terreno003
+    400050: Layer:terreno004
+    400052: Layer:terreno005
+    400054: Layer:terreno006
+    400056: Layer:terreno007
+    400058: Layer:terreno008
+    400060: Layer:terreno009
+    400062: Layer:terreno010
+    400064: Layer:terreno011
+    400066: Layer:terreno012
+    400068: Layer:terreno013
+    400070: Layer:terreno014
+    400072: Layer:terreno015
+    400074: Layer:terreno016
+    400076: Layer:terreno017
+    400078: Layer:terreno018
+    400080: Layer:terreno019
+    400082: Layer:terreno020
+    400084: Layer:terreno021
+    400086: Layer:terreno022
+    400088: Layer:terreno023
+    400090: Layer:terreno024
+    400092: Layer:terreno025
+    400094: Layer:terreno026
+    400096: Layer:terreno027
+    400098: Layer:terreno028
+    400100: Layer:terreno029
+    400102: Layer:terreno030
+    400104: Layer:terreno031
+    400106: Layer:terreno032
+    400108: Layer:terreno033
+    400110: Layer:terreno034
+    400112: Layer:terreno035
+    400114: Layer:terreno036
+    400116: Layer:terreno037
+    400118: Layer:terreno038
+    400120: Layer:terreno039
+    400122: Layer:terreno040
+    400124: Layer:terreno041
+    400126: Layer:terreno042
+    400128: Layer:terreno043
+    400130: Layer:terreno044
+    400132: Layer:terreno045
+    400134: Layer:terreno046
+    2100000: No Name
+    2300000: "Layer:3d_capilla_hip\xF3tesis"
+    2300002: Layer:3d_capilla_muros
+    2300004: Layer:3d_capilla_muros 1
+    2300006: Layer:3d_capilla_muros 2
+    2300008: Layer:3d_capilla_puerta
+    2300010: Layer:3d_capilla_puerta 1
+    2300012: Layer:3d_capilla_puerta 2
+    2300014: Layer:3d_capilla_tejado
+    2300016: Layer:3d_hopederia
+    2300018: Layer:3d_monasterio_claustro_gotico
+    2300020: Layer:3d_monasterio_claustro_gotico 2
+    2300022: Layer:3d_monasterio_claustro_gotico 3
+    2300024: Layer:3d_monasterio_claustro_romanico
+    2300026: Layer:3d_monasterio_cont_forjados
+    2300028: Layer:3d_monasterio_cont_obra_muros
+    2300030: Layer:3d_monasterio_iglesia_romanica
+    2300032: Layer:3d_monasterio_iglesia_romanica 1
+    2300034: Layer:3d_monasterio_iglesia_romanica 2
+    2300036: Layer:3d_monasterio_iglesia_romanica 3
+    2300038: Layer:3d_monasterio_iglesia_romanica 4
+    2300040: Layer:terreno001
+    2300042: Layer:terreno002
+    2300044: Layer:terreno003
+    2300046: Layer:terreno004
+    2300048: Layer:terreno005
+    2300050: Layer:terreno006
+    2300052: Layer:terreno007
+    2300054: Layer:terreno008
+    2300056: Layer:terreno009
+    2300058: Layer:terreno010
+    2300060: Layer:terreno011
+    2300062: Layer:terreno012
+    2300064: Layer:terreno013
+    2300066: Layer:terreno014
+    2300068: Layer:terreno015
+    2300070: Layer:terreno016
+    2300072: Layer:terreno017
+    2300074: Layer:terreno018
+    2300076: Layer:terreno019
+    2300078: Layer:terreno020
+    2300080: Layer:terreno021
+    2300082: Layer:terreno022
+    2300084: Layer:terreno023
+    2300086: Layer:terreno024
+    2300088: Layer:terreno025
+    2300090: Layer:terreno026
+    2300092: Layer:terreno027
+    2300094: Layer:terreno028
+    2300096: Layer:terreno029
+    2300098: Layer:terreno030
+    2300100: Layer:terreno031
+    2300102: Layer:terreno032
+    2300104: Layer:terreno033
+    2300106: Layer:terreno034
+    2300108: Layer:terreno035
+    2300110: Layer:terreno036
+    2300112: Layer:terreno037
+    2300114: Layer:terreno038
+    2300116: Layer:terreno039
+    2300118: Layer:terreno040
+    2300120: Layer:terreno041
+    2300122: Layer:terreno042
+    2300124: Layer:terreno043
+    2300126: Layer:terreno044
+    2300128: Layer:terreno045
+    2300130: Layer:terreno046
+    3300000: "Layer:3d_capilla_hip\xF3tesis"
+    3300002: Layer:3d_capilla_muros
+    3300004: Layer:3d_capilla_muros 1
+    3300006: Layer:3d_capilla_muros 2
+    3300008: Layer:3d_capilla_puerta
+    3300010: Layer:3d_capilla_puerta 1
+    3300012: Layer:3d_capilla_puerta 2
+    3300014: Layer:3d_capilla_tejado
+    3300016: Layer:3d_hopederia
+    3300018: Layer:3d_monasterio_claustro_gotico
+    3300020: Layer:3d_monasterio_claustro_gotico 2
+    3300022: Layer:3d_monasterio_claustro_gotico 3
+    3300024: Layer:3d_monasterio_claustro_romanico
+    3300026: Layer:3d_monasterio_cont_forjados
+    3300028: Layer:3d_monasterio_cont_obra_muros
+    3300030: Layer:3d_monasterio_iglesia_romanica
+    3300032: Layer:3d_monasterio_iglesia_romanica 1
+    3300034: Layer:3d_monasterio_iglesia_romanica 2
+    3300036: Layer:3d_monasterio_iglesia_romanica 3
+    3300038: Layer:3d_monasterio_iglesia_romanica 4
+    3300040: Layer:terreno001
+    3300042: Layer:terreno002
+    3300044: Layer:terreno003
+    3300046: Layer:terreno004
+    3300048: Layer:terreno005
+    3300050: Layer:terreno006
+    3300052: Layer:terreno007
+    3300054: Layer:terreno008
+    3300056: Layer:terreno009
+    3300058: Layer:terreno010
+    3300060: Layer:terreno011
+    3300062: Layer:terreno012
+    3300064: Layer:terreno013
+    3300066: Layer:terreno014
+    3300068: Layer:terreno015
+    3300070: Layer:terreno016
+    3300072: Layer:terreno017
+    3300074: Layer:terreno018
+    3300076: Layer:terreno019
+    3300078: Layer:terreno020
+    3300080: Layer:terreno021
+    3300082: Layer:terreno022
+    3300084: Layer:terreno023
+    3300086: Layer:terreno024
+    3300088: Layer:terreno025
+    3300090: Layer:terreno026
+    3300092: Layer:terreno027
+    3300094: Layer:terreno028
+    3300096: Layer:terreno029
+    3300098: Layer:terreno030
+    3300100: Layer:terreno031
+    3300102: Layer:terreno032
+    3300104: Layer:terreno033
+    3300106: Layer:terreno034
+    3300108: Layer:terreno035
+    3300110: Layer:terreno036
+    3300112: Layer:terreno037
+    3300114: Layer:terreno038
+    3300116: Layer:terreno039
+    3300118: Layer:terreno040
+    3300120: Layer:terreno041
+    3300122: Layer:terreno042
+    3300124: Layer:terreno043
+    3300126: Layer:terreno044
+    3300128: Layer:terreno045
+    3300130: Layer:terreno046
+    4300000: Layer:3d_capilla_muros
+    4300002: Layer:3d_capilla_muros
+    4300004: Layer:3d_capilla_tejado
+    4300006: Layer:3d_capilla_muros
+    4300008: "Layer:3d_capilla_hip\xF3tesis"
+    4300010: Layer:3d_capilla_puerta
+    4300012: Layer:3d_capilla_puerta
+    4300014: Layer:3d_capilla_puerta
+    4300016: Layer:3d_monasterio_claustro_romanico
+    4300018: Layer:3d_hopederia
+    4300020: Layer:3d_monasterio_claustro_gotico
+    4300022: Layer:3d_monasterio_iglesia_romanica
+    4300024: Layer:3d_monasterio_iglesia_romanica
+    4300026: Layer:3d_monasterio_claustro_gotico
+    4300028: Layer:3d_monasterio_cont_forjados
+    4300030: Layer:3d_monasterio_cont_obra_muros
+    4300032: Layer:3d_monasterio_claustro_gotico
+    4300034: Layer:3d_monasterio_iglesia_romanica
+    4300036: Layer:3d_monasterio_iglesia_romanica
+    4300038: Layer:3d_monasterio_iglesia_romanica
+    4300040: Layer:terreno017
+    4300042: Layer:terreno018
+    4300044: Layer:terreno019
+    4300046: Layer:terreno020
+    4300048: Layer:terreno021
+    4300050: Layer:terreno022
+    4300052: Layer:terreno023
+    4300054: Layer:terreno024
+    4300056: Layer:terreno025
+    4300058: Layer:terreno026
+    4300060: Layer:terreno046
+    4300062: Layer:terreno045
+    4300064: Layer:terreno044
+    4300066: Layer:terreno043
+    4300068: Layer:terreno041
+    4300070: Layer:terreno040
+    4300072: Layer:terreno039
+    4300074: Layer:terreno038
+    4300076: Layer:terreno036
+    4300078: Layer:terreno035
+    4300080: Layer:terreno034
+    4300082: Layer:terreno033
+    4300084: Layer:terreno030
+    4300086: Layer:terreno029
+    4300088: Layer:terreno028
+    4300090: Layer:terreno037
+    4300092: Layer:terreno032
+    4300094: Layer:terreno042
+    4300096: Layer:terreno027
+    4300098: Layer:terreno031
+    4300100: Layer:terreno003
+    4300102: Layer:terreno004
+    4300104: Layer:terreno005
+    4300106: Layer:terreno006
+    4300108: Layer:terreno007
+    4300110: Layer:terreno008
+    4300112: Layer:terreno002
+    4300114: Layer:terreno009
+    4300116: Layer:terreno010
+    4300118: Layer:terreno011
+    4300120: Layer:terreno012
+    4300122: Layer:terreno015
+    4300124: Layer:terreno016
+    4300126: Layer:terreno014
+    4300128: Layer:terreno001
+    4300130: Layer:terreno013
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+{
+  "Type": "Patient",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "TBD",
+  "Total_Number": 22,
+  "HomeObject": "TestWard_Home_Array",
+  "Color":  "Color.Red",
+  "Itinerary": {
+    "111": "Target Courtyard",
+
+    "610": "Target DiningHall",
+
+    "925": "Target Courtyard",
+
+    "1123": "Home",
+
+    "1350": "Target DiningHall"
+
+  }
+}

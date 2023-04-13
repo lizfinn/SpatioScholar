@@ -1,0 +1,26 @@
+{
+  "Type": "Patient",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "Agitated",
+  "Total_Number": 4,
+  "HomeObject": "TestWard3_Home_Array",
+  "Color": "White",
+  "Itinerary": {
+    "731": "Target DiningHall 1",
+
+    "831": "Target Courtyard",
+    "111": "Home",
+
+    "121": "Target DiningHall 1",
+
+    "131": "Target Courtyard",
+
+    "161": "Target DiningHall 1",
+
+    "181": "Home"
+
+  }
+}

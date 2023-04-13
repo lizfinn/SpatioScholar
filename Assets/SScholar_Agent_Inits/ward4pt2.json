@@ -1,0 +1,17 @@
+{
+  "Type": "Patient4.2",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "ToughCases",
+  "Total_Number": 6,
+  "HomeObject": "TestWard4_Home_Array2",
+  "Color": "Dark Blue",
+  "Itinerary": {
+
+
+
+  }
+}
+

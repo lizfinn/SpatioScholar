@@ -1,0 +1,29 @@
+{
+  "Type": "Patient3",
+  "Block": "E",
+  "Ward": "3",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "Chronic",
+  "Total_Number": 23,
+  "HomeObject": "TestWard3_Home_Array",
+  "Color": "Light Orange",
+  "Itinerary": {
+    "745": "Target DiningHall 1",
+
+    "855": "Home",
+
+    "1045": "Target DiningHall 1",
+
+    "1145": "Target Courtyard",
+
+    "1401": "Home",
+
+    "1545": "Target DiningHall 1",
+
+    "1705": "Target Courtyard",
+
+    "1811": "Home"
+
+  }
+}

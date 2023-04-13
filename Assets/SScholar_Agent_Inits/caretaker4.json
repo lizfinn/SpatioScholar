@@ -1,0 +1,14 @@
+{
+  "Type": "Caretaker",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "TBD",
+  "Total_Number": 1,
+  "HomeObject": "Care4",
+  "Color": "Green",
+  "Itinerary": {
+
+}
+}

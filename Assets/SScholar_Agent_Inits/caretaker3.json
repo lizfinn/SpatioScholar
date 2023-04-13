@@ -1,0 +1,28 @@
+{
+  "Type": "Caretaker",
+  "Block": "E",
+  "Ward": "3",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "TBD",
+  "Total_Number": 1,
+  "HomeObject": "Care3",
+  "Color": "Green",
+  "Itinerary": {
+    "745": "Target DiningHall 1",
+
+    "855": "Home",
+
+    "1045": "Target DiningHall 1",
+
+    "1145": "Target Courtyard",
+
+    "1401": "Home",
+
+    "1545": "Target DiningHall 1",
+
+    "1705": "Target Courtyard",
+
+    "1811": "Home"
+}
+}

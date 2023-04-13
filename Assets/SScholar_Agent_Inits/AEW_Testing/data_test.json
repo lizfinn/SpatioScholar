@@ -1,0 +1,24 @@
+﻿{
+  "Type": "test",
+  "Block": "E",
+  "Ward": "1",
+  "ID": "Auto",
+  "Sex": "Male",
+  "State": "BedRest",
+  "Total_Number": 1,
+  "HomeObject": "debuglocation",
+  "Color": "Yellow",
+  "Itinerary": {
+    "701": "debuglocation",
+
+    "731": "TestWard2_Home_Array",
+
+    "801": "TestWard3_Home_Array",
+
+    "831": "TestWard4_Home_Array",
+
+    "901": "Physician_Home"
+
+
+  }
+}

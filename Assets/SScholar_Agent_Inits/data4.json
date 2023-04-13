@@ -1,0 +1,22 @@
+{
+  "Type": "Patient4",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "ToughCases",
+  "Total_Number": 17,
+  "HomeObject": "TestWard4_Home_Array",
+  "Color": "Dark Blue",
+  "Itinerary": {
+
+
+
+  }
+}
+: DiningHall
+0830: Courtyard
+1200: DiningHall
+1300: Courtyard
+1600: DiningHall
+1800: Ward

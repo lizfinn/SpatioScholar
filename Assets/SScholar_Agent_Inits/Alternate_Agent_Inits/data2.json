@@ -1,0 +1,18 @@
+{
+  "Type": "Patient",
+  "Block": "E",
+  "Ward": "4",
+  "ID": "Auto",
+  "Sex": "Female",
+  "State": "TBD",
+  "Total_Number": 15,
+  "HomeObject": "Home_ObjectName2",
+  "Itinerary": {
+    "110": "Target 1",
+
+    "320": "Target 2",
+
+    "530": "Target 1"
+
+  }
+}
